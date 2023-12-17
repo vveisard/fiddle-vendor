@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "reverse-string": "../src/../reverse-string/out/index.js",
+    "cowsay": "./unpkg.com/cowsay2@2.0.4/index.js",
+    "zustand/vanilla": "./unpkg.com/zustand@4.4.7/vanilla.js",
+    "https://unpkg.com/": "./unpkg.com/"
+  }
+}

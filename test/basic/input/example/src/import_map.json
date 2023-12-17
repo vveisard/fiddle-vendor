@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "cowsay": "https://unpkg.com/cowsay2",
+    "string-width": "https://unpkg.com/string-width", 
+    "strip-ansi": "https://unpkg.com/strip-ansi", 
+    "get-east-asian-width": "https://unpkg.com/get-east-asian-width", 
+    "emoji-regex": "https://unpkg.com/emoji-regex", 
+    "ansi-regex": "https://unpkg.com/ansi-regex", 
+    "reverse-string": "../../reverse-string/out/index.js",
+    "zustand/": "https://unpkg.com/zustand/"
+  }
+}
